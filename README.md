@@ -30,6 +30,8 @@ Here are some ideas to get you started:
   <li><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></li>
 </ul>
 <br>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=socha2004&layout=compact&theme=buefy&hide_borde"> 
 <p>📫 If you want to reach me here are my social medias:</p>
 
 <a href="https://www.instagram.com/eugenio_socha_?igsh=ZGUzMzM3NWJiOQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/eugenio-socha-59513a219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
