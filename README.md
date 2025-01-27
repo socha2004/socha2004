@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2>I'm Eugenio Socha, a software developer enthusiastic 😄</h2>
 
 <p>Actually I'm studying design patterns that's envolve the software development and some datas structures</p>
-<p>The language that I want to specialize is Java, I'm looking his syntax and the tools used in projects development</p>
+<p>The language that I want to specialize is C#, I'm looking his syntax and the tools used in projects to develop web services and backend features.</p>
 <p>I'm always planning projects that I want to make and then host here in my GitHub account.</p>
 
 <h3>I’m currently working in projects with these technologies:</h3>
